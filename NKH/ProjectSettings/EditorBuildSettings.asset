@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/title.unity
+    guid: c428187a755c14f4aab6e09932fa0b51
+  - enabled: 1
+    path: Assets/Scenes/Explain.unity
+    guid: 576a6db2bd9cabe4484a24ad5b26c316
+  - enabled: 1
+    path: Assets/Scenes/HouseFront.unity
+    guid: 90f9ceffa5e5e034e9a5ca89e6567a9b
+  - enabled: 1
+    path: Assets/Scenes/StartSoop.unity
+    guid: af741c74e76192e46be9544d7d0cc7d5
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: b8d91e8412e4345479d62faad60253f5
+  - enabled: 1
+    path: Assets/Scenes/ForestBear.unity
+    guid: cfa63afdd7e75344f999ec1d923871ca
+  - enabled: 1
+    path: Assets/Scenes/ForestTiger.unity
+    guid: e49c6395c5ea4c9498362beb2b512fb8
+  - enabled: 1
+    path: Assets/Scenes/HouseIn.unity
+    guid: 30fd04bddc831cc4e82b2701b523e8dd
+  - enabled: 1
+    path: Assets/Scenes/HospitalFront.unity
+    guid: 8d02096d0e20925418f8d58a67cbbeb2
+  - enabled: 1
+    path: Assets/Scenes/HospitalIn.unity
+    guid: 415cd2ed65ef7c84ba953d82566d5f4b
+  - enabled: 1
+    path: Assets/Scenes/SecondSoop.unity
+    guid: 2b427c580fe918e49a58873f4e316558
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: dac80ec420e4bc742865ed7d8ba5bc96
+  - enabled: 1
+    path: Assets/Scenes/FastFoodFront.unity
+    guid: e052ee21e0917b646a974bad321f47c3
+  - enabled: 1
+    path: Assets/Scenes/FruitMarket.unity
+    guid: 752bec7e37ef51e4a8f338a96db4160b
+  - enabled: 1
+    path: Assets/Scenes/FastFoodIn.unity
+    guid: a45960cff060706489ff5e4c9572d9d8
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 65e59f9d06c4c734da5acd0a04dc2c08
+  - enabled: 1
+    path: Assets/Scenes/ExplainSecond.unity
+    guid: 510f33e8b8abfa54593c7e5809bc37a6
+  - enabled: 1
+    path: Assets/Scenes/HouseIn1.unity
+    guid: 4ca1e530f39bc0f459a07b2e581d4fa1
+  - enabled: 1
+    path: Assets/Scenes/HouseFront1.unity
+    guid: 0435dadb342ff184abc638ea4baffea3
+  - enabled: 1
+    path: Assets/Scenes/StartSoop2.unity
+    guid: 621462301a9538d40840d462ddb6e941
+  - enabled: 1
+    path: Assets/Scenes/SecondSoop2.unity
+    guid: 10589f467eaccda489502c690bac742a
+  - enabled: 1
+    path: Assets/Scenes/SecondSoop3.unity
+    guid: ff77af65e8312e542b904c9d08d75021
+  - enabled: 1
+    path: Assets/Scenes/HospitalFront2.unity
+    guid: 8d1425219aaba2d489115a81513b1027
+  - enabled: 1
+    path: Assets/Scenes/ForestTiger2.unity
+    guid: c6bc0fc0744f0ff48bfc39b06b3f569a
+  - enabled: 1
+    path: Assets/Scenes/ForestTiger3.unity
+    guid: 1b1f8d668e41a984fb0dcfa7dc808205
+  - enabled: 1
+    path: Assets/Scenes/FastFoodFront2.unity
+    guid: 92b44d47a38df1a44af360e75a90a8e9
+  - enabled: 1
+    path: Assets/Scenes/SecondSoop4.unity
+    guid: 6c73316a1a0efe04289bdfe359864af8
+  - enabled: 1
+    path: Assets/Scenes/FastFoodFront3.unity
+    guid: 6b6a79d40632b0b4989a4729e6912914
+  - enabled: 1
+    path: Assets/Scenes/ForestBear2.unity
+    guid: ab1e397033699aa44b5cf338f0a93025
+  m_configObjects: {}

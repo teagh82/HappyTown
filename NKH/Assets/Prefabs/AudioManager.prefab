@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5568778535300452764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5568778535300452765}
+  - component: {fileID: 5568778535300452762}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5568778535300452765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568778535300452764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 56.261963, y: -131.93771, z: 5.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5568778535300452762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568778535300452764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cf0c566fb62bb74f9e9996a6402e482, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: WalkingHuk_1
+    clip: {fileID: 8300000, guid: 98ba35fec9c82ba48a949ee6c8e1ff8a, type: 3}
+    volume: 100
+    loop: 0
+  - name: WalkingHuk_2
+    clip: {fileID: 8300000, guid: 0574c06d75a005645ac4eafd456d1d90, type: 3}
+    volume: 100
+    loop: 0
+  - name: WalkingHuk_3
+    clip: {fileID: 8300000, guid: f10645b9bd9f64f4c8cecf655af3b34d, type: 3}
+    volume: 100
+    loop: 0
+  - name: WalkingHuk_4
+    clip: {fileID: 8300000, guid: a4a79ee833180ee46bab50a0b78999ba, type: 3}
+    volume: 100
+    loop: 0
+  - name: Type_sound
+    clip: {fileID: 8300000, guid: 58a5dd5888761af4dbff225d52caf926, type: 3}
+    volume: 100
+    loop: 0
+  - name: Enter_sound
+    clip: {fileID: 8300000, guid: 6ac77b2ea107c5b4ba6d9a4122454b18, type: 3}
+    volume: 100
+    loop: 0
+  - name: Cancel_sound
+    clip: {fileID: 8300000, guid: 1c6b7dc1633ab2d41ae0d68f155aaf64, type: 3}
+    volume: 100
+    loop: 0
+  - name: Correct_sound
+    clip: {fileID: 8300000, guid: 73eba3fcf5a6d1645af103fc0d7258b9, type: 3}
+    volume: 100
+    loop: 0
+  - name: beep
+    clip: {fileID: 8300000, guid: 65889d2d8d24e4f43bff66afb409268e, type: 3}
+    volume: 100
+    loop: 0
+  - name: ok
+    clip: {fileID: 8300000, guid: 65889d2d8d24e4f43bff66afb409268e, type: 3}
+    volume: 100
+    loop: 0
+  - name: item_pickUp
+    clip: {fileID: 8300000, guid: 6ac77b2ea107c5b4ba6d9a4122454b18, type: 3}
+    volume: 100
+    loop: 0
+  - name: slime_sound
+    clip: {fileID: 8300000, guid: 65889d2d8d24e4f43bff66afb409268e, type: 3}
+    volume: 100
+    loop: 0
+  - name: damage_sound
+    clip: {fileID: 8300000, guid: 1c6b7dc1633ab2d41ae0d68f155aaf64, type: 3}
+    volume: 100
+    loop: 0
+  - name: attack_sound
+    clip: {fileID: 8300000, guid: 1c6b7dc1633ab2d41ae0d68f155aaf64, type: 3}
+    volume: 100
+    loop: 0
+  - name: equip_sound
+    clip: {fileID: 8300000, guid: 65889d2d8d24e4f43bff66afb409268e, type: 3}
+    volume: 100
+    loop: 0
